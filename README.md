@@ -1,7 +1,5 @@
-# SortingVisualizer
 Sorting Algorithms Visualizer
 A python application to visualize various sorting algorithms.
-
 
 
 Implemented Algorithms:
